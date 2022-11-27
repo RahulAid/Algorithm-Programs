@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Algorithm-Programs\bin\Debug\net6.0\Algorithm-Programs.exe
+D:\BridgeLabzz\Algorithm-Programs\bin\Debug\net6.0\Algorithm-Programs.deps.json
+D:\BridgeLabzz\Algorithm-Programs\bin\Debug\net6.0\Algorithm-Programs.runtimeconfig.json
+D:\BridgeLabzz\Algorithm-Programs\bin\Debug\net6.0\Algorithm-Programs.dll
+D:\BridgeLabzz\Algorithm-Programs\bin\Debug\net6.0\Algorithm-Programs.pdb
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.AssemblyInfo.cs
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.dll
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\refint\Algorithm-Programs.dll
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.pdb
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\Algorithm-Programs.genruntimeconfig.cache
+D:\BridgeLabzz\Algorithm-Programs\obj\Debug\net6.0\ref\Algorithm-Programs.dll
