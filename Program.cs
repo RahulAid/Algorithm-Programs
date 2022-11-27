@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Algorithm Programs");
 
-            PrimeNumbers obj = new PrimeNumbers();
+            PrimeNumbersThatAreAnagramAndPalindrome obj = new PrimeNumbersThatAreAnagramAndPalindrome();
             obj.PrimeNumber();
             Console.ReadLine();
         }
