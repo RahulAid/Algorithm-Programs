@@ -6,9 +6,10 @@
         {
             Console.WriteLine("Welcome to Algorithm Programs");
 
-            PrimeNumbersThatAreAnagramAndPalindrome obj = new PrimeNumbersThatAreAnagramAndPalindrome();
-            obj.PrimeNumber();
+            FindYourNumber obj = new FindYourNumber();
+            obj.FindNumber();
             Console.ReadLine();
+
         }
     }
 }
