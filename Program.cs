@@ -6,15 +6,15 @@
         {
             Console.WriteLine("Welcome to Algorithm Programs");
 
-            string[] names = { "OOPS", "Array", "Dictionary", "Generics", "Delegates", "LinkedList", "Stack", "Queue", "HashTable", "Events", "Regular Expressions" };
-            InsertionSortMethod objInsertion = new InsertionSortMethod();
+            int[] array = { 10, 20, 30, 40, 50, 60, 70 };
+            BubbleSortMethod objSort = new BubbleSortMethod();
 
-            Console.WriteLine("\nBefore sorting array elements are: ");
-            objInsertion.Display(names);
+            Console.WriteLine("\nArray elements Unsorted order : ");
+            objSort.Display(array);
 
-            objInsertion.Sort(names);
-            Console.WriteLine("\n\nAfter sorting array elements are: ");
-            objInsertion.Display(names);
+            objSort.Sort(array);
+            Console.WriteLine("\n\nArray elements Sorted order : ");
+            objSort.Display(array);
 
             Console.ReadLine();
         }
